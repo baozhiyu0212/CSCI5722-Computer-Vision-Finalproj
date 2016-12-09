@@ -1,4 +1,6 @@
-CSCI5722 CODES
+CSCI5722-Computer-Vision_Finalproj
+
+---CODES
 
 	---color_recognition:
 		A Makefile is included for this folder
@@ -27,6 +29,16 @@ CSCI5722 CODES
 
 	---Facial_Smile
 		A training set is needed which is available at "https://drive.google.com.open?id=OB965WTZIU_OQADJQCFRUBHFITMC"
-		Compile and run with command 'python facial_smile.py'
+		Compile and run with command 'python facial_smile_static.py' for static data.
+		Compile and run with command 'python facial_smile_realtime.py' for realtime capturing.
 
+---DOCUMENT
+
+	Visual assistant using Open-CV.pptx
+	Vision Assistant using Computer Vision_jangam_yu.pdf
+	
+
+---RESULT
+
+	CSCI5722Finalproj_Baozhi&Rag.avi
 
